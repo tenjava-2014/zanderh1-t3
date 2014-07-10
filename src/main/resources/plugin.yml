@@ -1,0 +1,3 @@
+name: zanderh1-t3
+main: com.tenjava.entries.zanderh1.t3.TenJava
+version: '${project.version}'
